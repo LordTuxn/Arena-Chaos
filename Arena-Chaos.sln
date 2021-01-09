@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaChaos-Reworked", "ArenaChaos-Reworked\ArenaChaos-Reworked.csproj", "{9F5D6A33-A995-4F7F-9A73-A8DDA1B88101}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arena-Chaos", "Arena-Chaos\Arena-Chaos.csproj", "{9F5D6A33-A995-4F7F-9A73-A8DDA1B88101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
